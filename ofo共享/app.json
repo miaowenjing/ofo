@@ -1,0 +1,19 @@
+{
+  "pages":[
+          "pages/index/index",
+        "pages/wallet/index",
+      "pages/my/index",
+
+      "pages/warn/index",
+      "pages/billing/index",
+      "pages/scanResult/index"
+         
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#525262",
+    "navigationBarTitleText": 
+    "ofo",
+    "navigationBarTextStyle" :"#fff"
+  }
+}

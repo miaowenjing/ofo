@@ -1,0 +1,31 @@
+ .container{
+   width:100%;
+   height:100vh;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: space-between;
+ }
+
+.header,footer{
+flex: 2;
+width:100%;
+text-align: center;
+padding:60rpx 0;
+
+}
+.ofo-pass{
+  flex: 8;
+  font-size: 240rpx;
+  font-weight:900;
+}
+.footer{
+  font-size: 36rpx;
+
+}
+.footer .footer-action{
+  margin-top:20rpx;
+  }
+  .footer .action-herf{
+    color: #b9db08;
+  }
